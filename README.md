@@ -24,6 +24,8 @@ cd line_follower
 - Build project: Press `Ctrl+Alt+B` or click the ✓ icon
 - Upload to board: Press `Ctrl+Alt+U` or click the → icon
 
-## Contributing
-
+## Members
+1. Gerald Felizarta
+2. Aileen Tul-id 
+3. Kean Andre Maglasang
 
